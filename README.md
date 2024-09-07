@@ -1,4 +1,4 @@
-# **Django Labs**
+# **Django Tasks**
 
 Welcome to **Django tasks**! This repository offers a collection of beginner-friendly Django projects designed to help in building and strengthen my Django web development skills. The projects cover key concepts such as models, views, URLs, and templates, giving you hands-on experience with building and expanding Django applications.
 
@@ -33,7 +33,7 @@ A simple project that introduces you to the concept of tracking data within a Dj
 
 ### **Mart**
 
-This project simulates an online store. You'll work on setting up models for products, categories, and user orders, along with creating views that allow users to browse and purchase items. It covers basic e-commerce functionality such as adding products to a cart and checking out.
+This project simulates an online store. I am working on setting up models for products, categories, and user orders, along with creating views that allow users to browse and purchase items. It covers basic e-commerce functionality such as adding products to a cart and checking out.
 
 ### **Other Tasks**
 
@@ -52,7 +52,7 @@ To start working with the projects in this repository, follow these steps:
 
 2. Navigate to the project folder:
     ```bash
-    cd django-labs
+    cd <your-folder>
     ```
 
 3. Set up a virtual environment and install dependencies:
